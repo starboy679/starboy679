@@ -116,6 +116,9 @@ Completed a project focused on banking process automation, financial workflows, 
   <a href="https://www.linkedin.com/in/abdalbagi-mokhtar-25151a296">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://github.com/starboy679">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
   <a href="https://www.instagram.com/starboy_249">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
