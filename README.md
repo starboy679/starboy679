@@ -58,15 +58,13 @@ Currently focusing on **Data Engineering, SQL, Python, and Big Data technologies
 
 ### 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=starboy679&show_icons=true&theme=tokyonight&hide_border=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=starboy679&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
 ### 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdalbagi-mokhtar-25151a296)
+Aspiring Data Engineer | SQL | Python | Data Warehousing
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://starboy679.github.io/Abdalbagi/)
 
