@@ -68,12 +68,6 @@ A personalized gifting website featuring ready-made gifts, customization forms, 
 
 🔗 [GitHub Repository](https://github.com/starboy679/Lovely_Box-GiftsWebsite) | [Live Website](https://lovelybox.xo.je/)
 
-### ⭐ Stars Clothing Store
-A responsive online store interface for browsing products and exploring an e-commerce shopping experience.
-
-**Technologies:** HTML, CSS, JavaScript.
-
-🔗 [Live Website](https://stars-eta-khaki.vercel.app/)
 
 ### 🔨 Auction Mechanism Design
 Developed backend components for English, Dutch, and Sealed-Bid auction mechanisms, including bid evaluation and pricing simulations.
